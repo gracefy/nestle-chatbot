@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules
+dist
+
+# Build output
+build
+
+# Logs
+*.log
+
+# Env files
+.env
+*.env
+
+# Vite cache
+.vite
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VSCode config
+.vscode
+
+# Public assets
+public
