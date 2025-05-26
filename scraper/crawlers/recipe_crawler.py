@@ -73,7 +73,7 @@ class RecipeCrawler(BaseCrawler):
                 soup = BeautifulSoup(html, "html.parser")
 
                 name = soup.select_one("h1")
-                name = name.get_text(strip=True) if name else "Untitled"
+                title = name.get_text(strip=True) if name else "Untitled"
 
                 description_tag = soup.select_one(".display-info p.coh-paragraph")
                 description = (
@@ -118,7 +118,7 @@ class RecipeCrawler(BaseCrawler):
                 tags = [
                     tag.get_text(strip=True)
                     for tag in soup.select(
-                        ".coh-style-recipe-tags-button .coh-container"
+                        ".coh-container.coh-style-recipe-tags-button:first-child"
                     )
                 ]
 
@@ -126,7 +126,7 @@ class RecipeCrawler(BaseCrawler):
 
                 return Recipe(
                     brand=brand,
-                    name=name,
+                    title=title,
                     url=recipe_url,
                     images=images,
                     description=description,

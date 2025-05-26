@@ -47,7 +47,7 @@ class RecipeStats(BaseModel):
 
 class Recipe(BaseModel):
     brand: str
-    name: str
+    title: str
     url: str
     images: List[str]
     description: Optional[str]
