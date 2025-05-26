@@ -1,0 +1,342 @@
+{
+  "brands": [
+    {
+      "title": "Aero",
+      "url": "https://www.madewithnestle.ca/aero",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "After Eight",
+      "url": "https://www.madewithnestle.ca/after-eight",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Big Turk",
+      "url": "https://www.madewithnestle.ca/big-turk",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "COFFEE CRISP",
+      "url": "https://www.madewithnestle.ca/coffee-crisp",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Crunch",
+      "url": "https://www.madewithnestle.ca/crunch",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Drumstick bites",
+      "url": "https://www.madewithnestle.ca/drumstick-bites",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Easter chocolates and treats",
+      "url": "https://www.madewithnestle.ca/easter-holiday",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Kit Kat",
+      "url": "https://www.madewithnestle.ca/kit-kat",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Mackintosh Toffee",
+      "url": "https://www.madewithnestle.ca/mackintosh-toffee",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Mirage",
+      "url": "https://www.madewithnestle.ca/mirage",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Quality Street",
+      "url": "https://www.madewithnestle.ca/quality-street",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Rolo",
+      "url": "https://www.madewithnestle.ca/rolo",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Smarties",
+      "url": "https://www.madewithnestle.ca/smarties",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Turtles",
+      "url": "https://www.madewithnestle.ca/turtles",
+      "category": "Chocolate & Treats"
+    },
+    {
+      "title": "Coffee Mate",
+      "url": "https://www.madewithnestle.ca/coffee-mate",
+      "category": "Coffee"
+    },
+    {
+      "title": "NESCAFÉ",
+      "url": "https://www.madewithnestle.ca/nescafe",
+      "category": "Coffee"
+    },
+    {
+      "title": "Confectionery Frozen Desserts",
+      "url": "https://www.madewithnestle.ca/confectionery-frozen-desserts",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Del Monte",
+      "url": "https://www.madewithnestle.ca/del-monte-frozen-desserts",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Drumstick",
+      "url": "https://www.madewithnestle.ca/drumstick",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Häagen-Dazs",
+      "url": "https://www.madewithnestle.ca/hd-en",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "IÖGO",
+      "url": "https://www.madewithnestle.ca/iogo-frozen-yogurt",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Parlour",
+      "url": "https://www.madewithnestle.ca/parlour",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Real Dairy",
+      "url": "https://www.madewithnestle.ca/real-dairy",
+      "category": "Ice Cream & Frozen Treats"
+    },
+    {
+      "title": "Nestlé Materna",
+      "url": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+      "category": "Infant Nutrition"
+    },
+    {
+      "title": "Nido",
+      "url": "https://www.nestlebaby.ca/nestle-nido-1",
+      "category": "Infant Nutrition"
+    },
+    {
+      "title": "MAGGI",
+      "url": "https://www.madewithnestle.ca/maggi",
+      "category": "Meal Times Made Easy"
+    },
+    {
+      "title": "BOOST Kids",
+      "url": "https://www.madewithnestle.ca/boost/boost-kids",
+      "category": "Nutrition +"
+    },
+    {
+      "title": "Boost",
+      "url": "https://www.madewithnestle.ca/boost",
+      "category": "Nutrition +"
+    },
+    {
+      "title": "IBGard",
+      "url": "https://www.madewithnestle.ca/natures-bounty-ibgard",
+      "category": "Nutrition +"
+    },
+    {
+      "title": "Nature's Bounty",
+      "url": "https://www.madewithnestle.ca/natures-bounty",
+      "category": "Nutrition +"
+    },
+    {
+      "title": "Purina",
+      "url": "https://www.purina.ca/",
+      "category": "Pet Foods"
+    },
+    {
+      "title": "Carnation Hot Chocolate",
+      "url": "https://www.madewithnestle.ca/carnation-hot-chocolate",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "GoodHost",
+      "url": "https://www.madewithnestle.ca/goodhost",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "Milo",
+      "url": "https://www.madewithnestle.ca/milo",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "NESTEA",
+      "url": "https://www.madewithnestle.ca/nestea",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "Nesfruta",
+      "url": "https://www.madewithnestle.ca/nesfruta",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "Nesquik",
+      "url": "https://www.madewithnestle.ca/nesquik",
+      "category": "Quick-Mix Drinks"
+    },
+    {
+      "title": "Maison Perrier",
+      "url": "https://www.maisonperrier.fr/ca/en-ca",
+      "category": "Spring & Sparkling Water"
+    },
+    {
+      "title": "Perrier",
+      "url": "https://www.perrier.com/ca/en-ca",
+      "category": "Spring & Sparkling Water"
+    },
+    {
+      "title": "San Pellegrino",
+      "url": "https://www.sanpellegrino.com/ca/en-ca",
+      "category": "Spring & Sparkling Water"
+    }
+  ],
+  "recipes": [
+    {
+      "brand": "Aero",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2947"
+    },
+    {
+      "brand": "After Eight",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2948"
+    },
+    {
+      "brand": "Boost",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2952"
+    },
+    {
+      "brand": "Carnation Hot Chocolate",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2954"
+    },
+    {
+      "brand": "COFFEE CRISP",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2955"
+    },
+    {
+      "brand": "Häagen-Dazs",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2966"
+    },
+    {
+      "brand": "Kit Kat",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2969"
+    },
+    {
+      "brand": "Mackintosh Toffee",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2971"
+    },
+    {
+      "brand": "MAGGI",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2972"
+    },
+    {
+      "brand": "Milo",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2973"
+    },
+    {
+      "brand": "NESCAFÉ",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2976"
+    },
+    {
+      "brand": "Nesfruta",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2978"
+    },
+    {
+      "brand": "Nesquik",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2980"
+    },
+    {
+      "brand": "NESTEA",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2981"
+    },
+    {
+      "brand": "Perrier",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2987"
+    },
+    {
+      "brand": "Quality Street",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A2997"
+    },
+    {
+      "brand": "San Pellegrino",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A6878"
+    },
+    {
+      "brand": "Smarties",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A3002"
+    },
+    {
+      "brand": "Turtles",
+      "url": "https://www.madewithnestle.ca/recipes?f%5B0%5D=recipe_brand_reference%3A3007"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Brand",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=66"
+    },
+    {
+      "title": "Community",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=26"
+    },
+    {
+      "title": "Company",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=30"
+    },
+    {
+      "title": "Environment",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=24"
+    },
+    {
+      "title": "Nutrition",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=25"
+    },
+    {
+      "title": "Society",
+      "url": "https://www.madewithnestle.ca/articles?field_category_target_id=27"
+    }
+  ],
+  "about": [
+    {
+      "title": "Corporate corporation",
+      "url": "https://corporate.nestle.ca/en/aboutus"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://contact.nestle.ca/en"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.madewithnestle.ca/about-us"
+    },
+    {
+      "title": "Careers",
+      "url": "https://corporate.nestle.ca/en/careers"
+    },
+    {
+      "title": "Terms",
+      "url": "https://www.madewithnestle.ca/terms-and-conditions"
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "https://www.madewithnestle.ca/privacy-policy"
+    },
+    {
+      "title": "Promotions",
+      "url": "https://www.madewithnestle.ca/world-flavours-contest"
+    },
+    {
+      "title": "Cookie Policy",
+      "url": "https://www.madewithnestle.ca/nestle-cookies-policy"
+    }
+  ]
+}

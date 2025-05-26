@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Nestlé Materna",
+    "url": "https://www.madewithnestle.ca/nestl%C3%A9-materna",
+    "category": "Infant Nutrition"
+  },
+  {
+    "title": "Nido",
+    "url": "https://www.nestlebaby.ca/nestle-nido-1",
+    "category": "Infant Nutrition"
+  },
+  {
+    "title": "Nature's Bounty",
+    "url": "https://www.madewithnestle.ca/natures-bounty",
+    "category": "Nutrition +"
+  },
+  {
+    "title": "Purina",
+    "url": "https://www.purina.ca/",
+    "category": "Pet Foods"
+  },
+  {
+    "title": "Maison Perrier",
+    "url": "https://www.maisonperrier.fr/ca/en-ca",
+    "category": "Spring & Sparkling Water"
+  },
+  {
+    "title": "Perrier",
+    "url": "https://www.perrier.com/ca/en-ca",
+    "category": "Spring & Sparkling Water"
+  },
+  {
+    "title": "San Pellegrino",
+    "url": "https://www.sanpellegrino.com/ca/en-ca",
+    "category": "Spring & Sparkling Water"
+  },
+  {
+    "title": "Häagen-Dazs",
+    "url": "https://www.haagen-dazs.ca/en/hd-en/products",
+    "category": "Ice Cream & Frozen Treats"
+  }
+]
