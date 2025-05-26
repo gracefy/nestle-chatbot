@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from scraper.crawlers.base_crawler import BaseCrawler
 from constants import ARTICLES_PATH, SITEMAP_LINKS_PATH
 from scraper.models import Article
-from scraper.utils import save_json, clean_text
+from utils import save_json, clean_text
 
 
 class ArticleCrawler(BaseCrawler):

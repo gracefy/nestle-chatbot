@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from scraper.crawlers.base_crawler import BaseCrawler
 from constants import RECIPES_PATH, SITEMAP_LINKS_PATH
 from scraper.models import Recipe, RecipeStats
-from scraper.utils import save_json, clean_text
+from utils import save_json, clean_text
 
 
 class RecipeCrawler(BaseCrawler):

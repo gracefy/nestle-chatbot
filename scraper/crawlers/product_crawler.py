@@ -13,7 +13,7 @@ from constants import (
     BROKEN_LINKS_PATH,
 )
 from scraper.models import Product, Nutrition, NutritionItem, ProductContent
-from scraper.utils import save_json
+from utils import save_json
 
 
 class ProductCrawler(BaseCrawler):

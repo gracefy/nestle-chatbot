@@ -4,7 +4,7 @@ import json
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from scraper.crawlers.base_crawler import BaseCrawler
-from scraper.utils import save_json
+from utils import save_json
 from constants import (
     BASE_URL,
     SITEMAP_URL,
