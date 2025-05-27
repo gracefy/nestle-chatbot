@@ -62,7 +62,7 @@ class Recipe(BaseModel):
 class Article(BaseModel):
     title: str
     url: str
-    category: Optional[str] = None
+    theme: Optional[str] = None
     content: Optional[str] = None
     punlished_at: Optional[str] = None
     created_at: Optional[str] = None
