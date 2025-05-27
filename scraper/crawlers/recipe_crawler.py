@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime, timezone
 from scraper.crawlers.base_crawler import BaseCrawler
-from constants import RECIPES_PATH, SITEMAP_LINKS_PATH
+from common.constants import RECIPES_PATH, SITEMAP_LINKS_PATH
 from scraper.models import Recipe, RecipeStats
-from utils import save_json, clean_text
+from common.utils import save_json, clean_text
 
 
 class RecipeCrawler(BaseCrawler):

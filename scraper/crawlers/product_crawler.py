@@ -6,14 +6,14 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime, timezone
 from scraper.crawlers.base_crawler import BaseCrawler
-from constants import (
+from common.constants import (
     PRODUCTS_PATH,
     SITEMAP_LINKS_PATH,
     EXTERNAL_LINKS_PATH,
     BROKEN_LINKS_PATH,
 )
 from scraper.models import Product, Nutrition, NutritionItem, ProductContent
-from utils import save_json
+from common.utils import save_json
 
 
 class ProductCrawler(BaseCrawler):
