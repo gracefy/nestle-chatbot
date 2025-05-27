@@ -136,9 +136,12 @@ class ProductCrawler(BaseCrawler):
                 name_tag = detail_soup.select_one("h1")
                 name = name_tag.get_text(strip=True) if name_tag else title
 
-                desc_tag = detail_soup.select_one(
-                    ".product-description p"
-                ) or detail_soup.select_one(".coh-inline-element + p")
+                desc_tag = (
+                    detail_soup.select_one(".product-description p")
+                    or detail_soup.select_one(".coh-inline-element + p")
+                    or detail_soup.select_one(".product-description div")
+                )
+
                 description = desc_tag.get_text(strip=True) if desc_tag else None
 
                 product_size_tag = detail_soup.select_one(".product-size")
@@ -270,7 +273,7 @@ class ProductCrawler(BaseCrawler):
                 now = datetime.now(timezone.utc).isoformat()
 
                 return Product(
-                    name=name,
+                    title=name,
                     url=detail_url,
                     brand=brand_name,
                     category=category,

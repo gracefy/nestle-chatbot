@@ -23,7 +23,7 @@ class ProductContent(BaseModel):
 
 
 class Product(BaseModel):
-    name: str
+    title: str
     url: str
     brand: str
     category: str
