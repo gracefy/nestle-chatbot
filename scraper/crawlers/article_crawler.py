@@ -39,7 +39,7 @@ class ArticleCrawler(BaseCrawler):
                 category = article["title"]
                 article_url = article["url"]
 
-                print(f"\nCrawling articles for category: {category} ...")
+                print(f"\nCrawling articles for theme: {category} ...")
 
                 html = await self.load_page_content(article_url, click_more=True)
                 soup = BeautifulSoup(html, "html.parser")
@@ -96,7 +96,7 @@ class ArticleCrawler(BaseCrawler):
                 return Article(
                     title=title,
                     url=article_url,
-                    category=category,
+                    theme=category,
                     content=clean_text(content),
                     punlished_at=date,
                     created_at=now,
