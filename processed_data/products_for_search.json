@@ -13,7 +13,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Limited Time",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -30,7 +30,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -47,7 +47,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -64,7 +64,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -81,7 +81,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -98,7 +98,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -115,7 +115,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -132,7 +132,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -149,7 +149,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -166,7 +166,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -183,7 +183,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -200,7 +200,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -217,7 +217,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -234,7 +234,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -251,7 +251,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -268,7 +268,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -285,7 +285,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -302,7 +302,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -319,7 +319,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -336,7 +336,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -353,7 +353,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -370,7 +370,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -387,7 +387,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -404,7 +404,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -421,7 +421,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -438,7 +438,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -455,7 +455,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -472,7 +472,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -489,7 +489,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -506,7 +506,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -523,7 +523,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -540,7 +540,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -557,7 +557,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -574,7 +574,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -591,7 +591,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -608,7 +608,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -625,7 +625,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -642,7 +642,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -659,7 +659,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -676,7 +676,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -693,7 +693,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -710,7 +710,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -727,7 +727,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -744,7 +744,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -761,7 +761,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -778,7 +778,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -795,7 +795,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -812,7 +812,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -829,7 +829,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -846,7 +846,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -863,7 +863,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -880,7 +880,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -897,7 +897,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -914,7 +914,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -931,7 +931,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -948,7 +948,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -965,7 +965,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -982,7 +982,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -999,7 +999,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1016,7 +1016,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1033,7 +1033,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1050,7 +1050,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1067,7 +1067,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1084,7 +1084,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1101,7 +1101,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1118,7 +1118,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1135,7 +1135,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1152,7 +1152,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1169,7 +1169,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1186,7 +1186,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1203,7 +1203,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1220,7 +1220,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1237,7 +1237,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1254,7 +1254,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1271,7 +1271,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1288,7 +1288,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1305,7 +1305,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1322,7 +1322,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1339,7 +1339,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1356,7 +1356,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1373,7 +1373,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1390,7 +1390,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1407,7 +1407,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1424,7 +1424,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1441,7 +1441,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1458,7 +1458,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1475,7 +1475,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1492,7 +1492,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1509,7 +1509,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1526,7 +1526,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1543,7 +1543,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1560,7 +1560,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1577,7 +1577,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1594,7 +1594,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1611,7 +1611,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1628,7 +1628,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1645,7 +1645,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1662,7 +1662,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1679,7 +1679,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1696,7 +1696,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1713,7 +1713,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1730,7 +1730,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1747,7 +1747,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1764,7 +1764,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1781,7 +1781,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1798,7 +1798,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1815,7 +1815,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1832,7 +1832,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1849,7 +1849,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1866,7 +1866,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Improved",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1883,7 +1883,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1900,7 +1900,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1917,7 +1917,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1934,7 +1934,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1951,7 +1951,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1968,7 +1968,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -1985,7 +1985,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2002,7 +2002,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2019,7 +2019,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2036,7 +2036,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2053,7 +2053,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2070,7 +2070,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2087,7 +2087,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2104,7 +2104,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2121,7 +2121,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2138,7 +2138,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2155,7 +2155,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2172,7 +2172,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2189,7 +2189,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2206,7 +2206,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2223,7 +2223,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2240,7 +2240,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2257,7 +2257,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2274,7 +2274,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2291,7 +2291,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2308,7 +2308,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2325,7 +2325,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2342,7 +2342,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2359,7 +2359,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2376,7 +2376,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2393,7 +2393,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2410,7 +2410,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2418,7 +2418,7 @@
     "type": "product",
     "title": "MACK is back!",
     "brand": "Mackintosh Toffee",
-    "content": "",
+    "content": "#fallback MACK is back! by Mackintosh Toffee",
     "image": null,
     "created_at": "2025-05-27T03:07:37.694491+00:00",
     "sourcepage": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-tin",
@@ -2427,7 +2427,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2444,7 +2444,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2461,7 +2461,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2478,7 +2478,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2495,7 +2495,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2512,7 +2512,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2529,7 +2529,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2546,7 +2546,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2563,7 +2563,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2580,7 +2580,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2588,7 +2588,7 @@
     "type": "product",
     "title": "A Canadian favourite for over 75 years!",
     "brand": "Quality Street",
-    "content": "",
+    "content": "#fallback A Canadian favourite for over 75 years! by Quality Street",
     "image": null,
     "created_at": "2025-05-27T03:08:10.243127+00:00",
     "sourcepage": "https://www.madewithnestle.ca/quality-street/quality-street-small-tin",
@@ -2597,7 +2597,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2614,7 +2614,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2631,7 +2631,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2639,7 +2639,7 @@
     "type": "product",
     "title": "A Canadian favourite for over 75 years!",
     "brand": "Quality Street",
-    "content": "",
+    "content": "#fallback A Canadian favourite for over 75 years! by Quality Street",
     "image": null,
     "created_at": "2025-05-27T03:08:10.134538+00:00",
     "sourcepage": "https://www.madewithnestle.ca/quality-street/quality-street-tin",
@@ -2648,7 +2648,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2665,7 +2665,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2682,7 +2682,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2699,7 +2699,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2716,7 +2716,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2733,7 +2733,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Limited Time",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2750,7 +2750,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2767,7 +2767,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2784,7 +2784,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2801,7 +2801,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2818,7 +2818,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2835,7 +2835,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2852,7 +2852,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2869,7 +2869,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2886,7 +2886,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2903,7 +2903,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2920,7 +2920,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Limited Time",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2937,7 +2937,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2954,7 +2954,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2971,7 +2971,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -2988,7 +2988,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3005,7 +3005,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3022,7 +3022,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3039,7 +3039,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3056,7 +3056,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3073,7 +3073,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3090,7 +3090,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3107,7 +3107,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3124,7 +3124,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3141,7 +3141,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3158,7 +3158,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3175,7 +3175,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3192,7 +3192,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3209,7 +3209,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3226,7 +3226,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3243,7 +3243,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Seasonal",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3260,7 +3260,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Renovated",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3277,7 +3277,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Renovated",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3294,7 +3294,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "Renovated",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3311,7 +3311,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3328,7 +3328,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3345,7 +3345,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": "New",
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3362,7 +3362,7 @@
     "product_category": "Chocolate & Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3379,7 +3379,7 @@
     "product_category": "Coffee",
     "product_label": "Limited Time",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3396,7 +3396,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3413,7 +3413,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3430,7 +3430,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3447,7 +3447,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3464,7 +3464,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3481,7 +3481,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3498,7 +3498,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3515,7 +3515,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3532,7 +3532,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3549,7 +3549,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3566,7 +3566,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3583,7 +3583,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3600,7 +3600,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3617,7 +3617,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3634,7 +3634,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3651,7 +3651,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3668,7 +3668,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3685,7 +3685,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3702,7 +3702,7 @@
     "product_category": "Coffee",
     "product_label": "New",
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3719,7 +3719,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3736,7 +3736,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3753,7 +3753,7 @@
     "product_category": "Coffee",
     "product_label": "New size",
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3770,7 +3770,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3787,7 +3787,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3804,7 +3804,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3821,7 +3821,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3838,7 +3838,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3855,7 +3855,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Sweet & Creamy",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3872,7 +3872,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Sweet & Creamy",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3889,7 +3889,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Sweet & Creamy",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3906,7 +3906,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3923,7 +3923,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Taster's Choice",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3940,7 +3940,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3957,7 +3957,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3974,7 +3974,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -3991,7 +3991,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4008,7 +4008,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Sweet & Creamy",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4025,7 +4025,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4042,7 +4042,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Gold",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4059,7 +4059,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Sweet & Creamy",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4076,7 +4076,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4093,7 +4093,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Taster's Choice",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4110,7 +4110,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "Rich",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4127,7 +4127,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4144,7 +4144,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4161,7 +4161,7 @@
     "product_category": "Coffee",
     "product_label": "New",
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4178,7 +4178,7 @@
     "product_category": "Coffee",
     "product_label": null,
     "product_line": "GOLD",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4195,7 +4195,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4212,7 +4212,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4229,7 +4229,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4246,7 +4246,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4263,7 +4263,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4280,7 +4280,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4297,7 +4297,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4314,7 +4314,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4331,7 +4331,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4348,7 +4348,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4365,7 +4365,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4382,7 +4382,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4399,7 +4399,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4416,7 +4416,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4433,7 +4433,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4450,7 +4450,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4467,7 +4467,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4484,7 +4484,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4501,7 +4501,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4518,7 +4518,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4535,7 +4535,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4552,7 +4552,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4569,7 +4569,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4586,7 +4586,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4603,7 +4603,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4620,7 +4620,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4637,7 +4637,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4654,7 +4654,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4671,7 +4671,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4688,7 +4688,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4705,7 +4705,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4722,7 +4722,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4739,7 +4739,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4756,7 +4756,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4773,7 +4773,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Tubs",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4790,7 +4790,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Tubs",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4807,7 +4807,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Tubs",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4824,7 +4824,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4841,7 +4841,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4858,7 +4858,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4875,7 +4875,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4892,7 +4892,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4909,7 +4909,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4926,7 +4926,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4943,7 +4943,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "4 x 140 ml",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4960,7 +4960,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "4 x 130 ml",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4977,7 +4977,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "4 x 130 ml",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -4994,7 +4994,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "4 x 130 ml",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5011,7 +5011,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Classics",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5028,7 +5028,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5045,7 +5045,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5062,7 +5062,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5079,7 +5079,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5096,7 +5096,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5113,7 +5113,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Featured Cones",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5130,7 +5130,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Featured Cones",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5147,7 +5147,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": "New",
     "product_line": "Featured Cones",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5164,7 +5164,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "Plant Based",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5181,7 +5181,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5198,7 +5198,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5215,7 +5215,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5232,7 +5232,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5249,7 +5249,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5266,7 +5266,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5283,7 +5283,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5300,7 +5300,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5317,7 +5317,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5334,7 +5334,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5351,7 +5351,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5368,7 +5368,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5385,7 +5385,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5402,7 +5402,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5419,7 +5419,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5436,7 +5436,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5453,7 +5453,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5470,7 +5470,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5487,7 +5487,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5504,7 +5504,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5521,7 +5521,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5538,7 +5538,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5555,7 +5555,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5572,7 +5572,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5589,7 +5589,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": "minis",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5606,7 +5606,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5623,7 +5623,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5640,7 +5640,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5657,7 +5657,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5674,7 +5674,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5691,7 +5691,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5708,7 +5708,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5725,7 +5725,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5742,7 +5742,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5759,7 +5759,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5776,7 +5776,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5793,7 +5793,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5810,7 +5810,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5827,7 +5827,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5844,7 +5844,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5861,7 +5861,7 @@
     "product_category": "Ice Cream & Frozen Treats",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5878,7 +5878,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5895,7 +5895,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5912,7 +5912,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5929,7 +5929,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5946,7 +5946,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5963,7 +5963,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5980,7 +5980,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -5997,7 +5997,7 @@
     "product_category": "Meal Times Made Easy",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6014,7 +6014,7 @@
     "product_category": "Nutrition +",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6031,7 +6031,7 @@
     "product_category": "Nutrition +",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6048,7 +6048,7 @@
     "product_category": "Nutrition +",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6065,7 +6065,7 @@
     "product_category": "Nutrition +",
     "product_label": "New",
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6082,7 +6082,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6099,7 +6099,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6116,7 +6116,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6133,7 +6133,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6150,7 +6150,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6167,7 +6167,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6184,7 +6184,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6201,7 +6201,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6218,7 +6218,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6235,7 +6235,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6252,7 +6252,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6269,7 +6269,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6286,7 +6286,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6303,7 +6303,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6320,7 +6320,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6337,7 +6337,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6354,7 +6354,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6371,7 +6371,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6388,7 +6388,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6405,7 +6405,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6422,7 +6422,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6439,7 +6439,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6456,7 +6456,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6473,7 +6473,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6490,7 +6490,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6507,7 +6507,7 @@
     "product_category": "Nutrition +",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6524,7 +6524,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6541,7 +6541,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6558,7 +6558,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6575,7 +6575,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6592,7 +6592,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6609,7 +6609,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6626,7 +6626,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6643,7 +6643,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6660,7 +6660,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6677,7 +6677,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6694,7 +6694,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6711,7 +6711,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6728,7 +6728,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6745,7 +6745,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6762,7 +6762,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6779,7 +6779,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": "liquid",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6796,7 +6796,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6813,7 +6813,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6830,7 +6830,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6847,7 +6847,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6864,7 +6864,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6881,7 +6881,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6898,7 +6898,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6915,7 +6915,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": null,
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   },
   {
@@ -6932,7 +6932,7 @@
     "product_category": "Quick-Mix Drinks",
     "product_label": null,
     "product_line": "powder",
-    "article_category": null,
+    "article_theme": null,
     "published_at": null
   }
 ]

@@ -1,6 +1,6 @@
 import os
 from common.utils import generate_id, save_json, load_json
-from models.indexed_document import IndexedDocument
+from scripts.vector.indexed_document import IndexedDocument
 from common.constants import ARTICLES_PATH, PROCESSED_ARTICLES_PATH
 
 
@@ -36,7 +36,7 @@ def main():
                 created_at=article.get("created_at"),
                 published_at=article.get("published_at"),
                 sourcepage=article.get("url"),
-                article_category=article.get("category"),
+                article_theme=article.get("theme"),
                 embedding=None,
                 recipe_tags=[],
                 product_category=None,

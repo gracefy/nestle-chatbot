@@ -1,4 +1,4 @@
-from models.indexed_document import IndexedDocument
+from scripts.vector.indexed_document import IndexedDocument
 from common.constants import PROCESSED_RECIPES_PATH
 from common.azure_clients import search_client, generate_embeddings
 from common.utils import load_json
@@ -27,7 +27,7 @@ for recipe in processed_recipes:
             product_category=None,
             product_label=None,
             product_line=None,
-            article_category=None,
+            article_theme=None,
             published_at=None,
         )
         documents.append(document)

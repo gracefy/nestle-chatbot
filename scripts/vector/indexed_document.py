@@ -24,5 +24,5 @@ class IndexedDocument(BaseModel):
     product_line: Optional[str] = None
 
     # Article-specific fields
-    article_category: Optional[str] = None
+    article_theme: Optional[str] = None
     published_at: Optional[str] = None

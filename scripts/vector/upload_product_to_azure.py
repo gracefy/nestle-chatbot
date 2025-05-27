@@ -1,4 +1,4 @@
-from models.indexed_document import IndexedDocument
+from scripts.vector.indexed_document import IndexedDocument
 from common.constants import PROCESSED_PRODUCTS_PATH
 from common.azure_clients import search_client, generate_embeddings
 from common.utils import load_json
@@ -32,7 +32,7 @@ for product in processed_products:
             product_category=product.get("product_category", None),
             product_label=product.get("product_label", None),
             product_line=product.get("product_line", None),
-            article_category=None,
+            article_theme=None,
             published_at=None,
         )
         documents.append(document)

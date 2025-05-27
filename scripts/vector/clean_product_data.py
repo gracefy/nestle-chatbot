@@ -1,6 +1,6 @@
 import os
 from common.constants import PRODUCTS_PATH, PROCESSED_PRODUCTS_PATH
-from models.indexed_document import IndexedDocument
+from scripts.vector.indexed_document import IndexedDocument
 from common.utils import save_json, generate_id, safe_strip, safe_dict, load_json
 
 
@@ -129,7 +129,7 @@ def main():
                 created_at=product.get("created_at"),
                 published_at=None,
                 sourcepage=product.get("url"),
-                article_category=None,
+                article_theme=None,
                 embedding=None,
                 recipe_tags=[],
                 product_category=product.get("category", None),

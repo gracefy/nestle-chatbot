@@ -1,7 +1,7 @@
 import os
 from typing import List
 from common.constants import RECIPES_PATH, PROCESSED_RECIPES_PATH
-from models.indexed_document import IndexedDocument
+from scripts.vector.indexed_document import IndexedDocument
 from common.utils import save_json, generate_id, load_json
 
 
@@ -64,7 +64,7 @@ def main():
                 product_category=None,
                 pruduct_label=None,
                 product_line=None,
-                article_category=None,
+                article_theme=None,
                 published_at=None,
             )
             processed.append(doc.model_dump())
