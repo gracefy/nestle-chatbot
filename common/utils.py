@@ -5,6 +5,7 @@ from typing import Any
 from typing import Optional
 
 
+# Save data as JSON to the specified file path
 def save_json(data: Any, path: str):
     try:
         os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -15,6 +16,7 @@ def save_json(data: Any, path: str):
         print(f"Failed to save JSON to {path}: {e}")
 
 
+# Load data from a JSON file and return as Python object
 def load_json(path: str):
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -24,6 +26,7 @@ def load_json(path: str):
         return []
 
 
+# Clean text by collapsing whitespace and stripping leading/trailing spaces
 def clean_text(text: Optional[str]) -> Optional[str]:
     if not text:
         return None
@@ -42,9 +45,16 @@ def slugify(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
 
 
+# Safely strip a string
 def safe_strip(value):
     return value.strip() if isinstance(value, str) else value
 
 
+# Ensure the input is a dict, otherwise return empty dict
 def safe_dict(d):
     return d if isinstance(d, dict) else {}
+
+
+# Safely get the first element of a list,
+def safe_first(lst):
+    return lst[0] if isinstance(lst, list) and lst else None

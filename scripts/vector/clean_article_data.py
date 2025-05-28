@@ -1,16 +1,15 @@
 import os
-from common.utils import generate_id, save_json, load_json
+from common.utils import generate_id, save_json, load_json, safe_strip
 from scripts.vector.indexed_document import IndexedDocument
 from common.constants import ARTICLES_PATH, PROCESSED_ARTICLES_PATH
 
 
-# Build embedding text from article content
-def build_content(text: str) -> str:
-    return text.strip()
-
-
-# Process articles from raw JSON file
 def main():
+    """
+    Processes raw article data from JSON file, extracting relevant fields
+    and generating a structured IndexedDocument for each article.
+    Saves the processed documents to a new JSON file for later use.
+    """
     if not os.path.exists(ARTICLES_PATH):
         raise FileNotFoundError(f"Raw article file not found: {ARTICLES_PATH}")
 
@@ -24,7 +23,7 @@ def main():
                 continue
 
             _id = generate_id("article", article["title"])
-            content = build_content(article["content"])
+            content = build_content(article)
 
             doc = IndexedDocument(
                 id=_id,
@@ -50,6 +49,27 @@ def main():
 
     save_json(processed, PROCESSED_ARTICLES_PATH)
     print(f"Processed {len(processed)} articles → {PROCESSED_ARTICLES_PATH}")
+
+
+def build_content(article: dict) -> str:
+    """
+    Constructs a semantically rich content string from an article dictionary
+    for embedding in vector databases. Includes title, theme, and body content.
+    """
+    parts = []
+
+    title = safe_strip(article.get("title"))
+    theme = safe_strip(article.get("theme"))
+    body = safe_strip(article.get("content"))
+
+    if title:
+        parts.append(f"**{title}**")
+    if theme:
+        parts.append(f"Theme: {theme}")
+    if body:
+        parts.append(body)
+
+    return "\n\n".join(parts).strip()
 
 
 if __name__ == "__main__":
