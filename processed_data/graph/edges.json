@@ -1,0 +1,2042 @@
+[
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO S'Mores bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Scoops Vanilla Bean",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Scoops Double Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Scoops Choco Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "Aero Truffle Salted Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "NESTLÉ AERO TRUFFLE Brownie 105 g Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Pep 8ct Jrs 24 8x7.3 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Hide Me Eggs 100g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Valentine's Minis 30-pack, 219 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Easter Chocolate Lamb 5-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "NESTLÉ AERO Novelty Bunny 94g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Halloween 25ct Carton",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Tiramisu Milk Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate Minis 98g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate Minis Pouch (800 g)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate Minis",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Peppermint Milk Chocolate Minis",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Dark & Milk Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "NESTLÉ® AERO® Milk Chocolate Bar 42g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO White Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Mint - Peppermint Milk Chocolate Bubble Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Peppermint Share-Size Milk Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate 3-Piece Share Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate Big Bubble Bar (97 g)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Peppermint Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Snack Size, Milk Chocolate, Peanut-free",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "Assorted Minis Carton 25 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "Assorted Minis Carton 50 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "Assorted Minis Carton 100 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Milk Chocolate Bar 4-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "NESTLÉ Assorted Minis Carton pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Aero",
+    "to_product": "AERO Peppermint Bar 4-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Dark Mint Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Classic Mint Thins",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "After Eight Strawberry Mint Thins",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Orange Mint Thins",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Skyline Classic Tin",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Chocolate Mint Sticks",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Mint Trio Collection Box",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "After Eight",
+    "to_product": "AFTER EIGHT Holiday Advent Calendar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "NESTLÉ CRUNCH POPS",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "CRUNCH chocolate bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "BIG TURK Share Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "BIG TURK Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "MIRAGE Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "MIRAGE Bar 4-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "NESTLÉ BUNCHA CRUNCH",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Big Turk",
+    "to_product": "CRUNCH Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Coffee Crisp MEGA Cold Brew",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Easter Hide Me Chocolate Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Share Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Double Double Wafer Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Double Double King",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP (50g)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP POPS™ Carton 70g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP POPS™ Pouch 170g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP® Minis Classic",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Minis Double Double Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Assorted Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP 4-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Juniors Treat Size",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "COFFEE CRISP Mini Wafer Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Coffee Crisp Snack Size 25ct Box",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Assorted Minis Carton 25 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Assorted Minis Carton 50 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "Assorted Minis Carton 100 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "COFFEE CRISP",
+    "to_product": "NESTLÉ Assorted Minis Carton pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "NESTLÉ CRUNCH POPS",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "CRUNCH chocolate bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "BIG TURK Share Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "BIG TURK Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "MIRAGE Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "MIRAGE Bar 4-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "NESTLÉ BUNCHA CRUNCH",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Crunch",
+    "to_product": "CRUNCH Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick bites",
+    "to_product": "Drumstick Bites Milk Chocolatey cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick bites",
+    "to_product": "Drumstick Bites Dark Chocolatey cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "KIT KAT Easter Hide Me Chocolate Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "AERO Hide Me Eggs 100g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "COFFEE CRISP Easter Hide Me Chocolate Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "AERO Easter Chocolate Lamb 5-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "NESTLÉ AERO Novelty Bunny 94g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "NESTLÉ KITKAT Chocolate Easter Bunny Gift Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Chocolate Easter Bunny Gift Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "Assorted Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "Kit Kat Easter Break Chocolate and Wafer Bunnies 12 Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "Kit Kat Milk Chocolate Easter Bunny",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "KITKAT Mini Easter Chocolate Bunny 5-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "KITKAT Easter Break Bunny",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Easter Chocolate Egg Hunt Kit",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Easter Chocolate 45 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Easter Chocolate Chicken",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Easter chocolates and treats",
+    "to_product": "SMARTIES Box  - Easter Milk Chocolate Pack of 30",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Tablet Salted Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Tablet Hazelnut",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Classic Tablet",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT CHUNKY Peanut Butter, Mega Size",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT NHL Chocolate Hockey Stick",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KitKat MEGA",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Chunky Extreme Choc, Wafer Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Chunky Rolo, Wafer Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT CHUNKY Drumstick",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT CHUNKY Milk Chocolate Wafer Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "NESTLÉ KITKAT Chocolate Easter Bunny Gift Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Assorted Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT POPS WITH AERO MINIS",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Kit Kat Easter Break Chocolate and Wafer Bunnies 12 Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Kit Kat Milk Chocolate Easter Bunny",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Mini Easter Chocolate Bunny 5-pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Easter Break Bunny",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Pops with SMARTIES",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT Chunky",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT  4-Finger Wafer Bar, Milk Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Hazelnut",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT POPS™ Snacks Pouch 170 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT POPS Milk Chocolaty Snacks Carton 70 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT  Valentine Minis, Milk Chocolate, Peanut-free",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Lovers Assorted Minis",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Chunky Minis",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT Minis Pantry Size Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KitKat Single Bars, Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KIT KAT Ice-cream Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Assorted Minis Carton 25 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Assorted Minis Carton 50 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "Assorted Minis Carton 100 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "NESTLÉ Assorted Minis Carton pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Holiday Santa Chimney",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Christmas Holiday Advent Calendar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Hockey Holidays NHL Advent Calendar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Holiday Cabin Kit",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Holiday Festive Friends",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Kit Kat",
+    "to_product": "KITKAT Holiday Milk Santa Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mackintosh Toffee",
+    "to_product": "MACKINTOSH Toffee Pieces",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mackintosh Toffee",
+    "to_product": "MACK is back!",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mackintosh Toffee",
+    "to_product": "MACKINTOSH Toffee Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "NESTLÉ CRUNCH POPS",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "CRUNCH chocolate bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "BIG TURK Share Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "BIG TURK Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "MIRAGE Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "MIRAGE Bar 4-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "NESTLÉ BUNCHA CRUNCH",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Mirage",
+    "to_product": "CRUNCH Chocolate Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Quality Street",
+    "to_product": "A Canadian favourite for over 75 years!",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Quality Street",
+    "to_product": "QUALITY STREET Holiday Gift Tin",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Quality Street",
+    "to_product": "QUALITY STREET Holiday Gift Box",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Quality Street",
+    "to_product": "A Canadian favourite for over 75 years!",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Quality Street",
+    "to_product": "QUALITY STREET Share Bag",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Rolo",
+    "to_product": "ROLO",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Rolo",
+    "to_product": "ROLO Mini",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Rolo",
+    "to_product": "Assorted Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Birthday Cake",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Snack Size",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "NESTLÉ SMARTIES Carton 25",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Chocolate Easter Bunny Gift Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Assorted Hide Me Eggs",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Resealable Bag",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Multipack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Easter Chocolate Assorted Hide Me Eggs Pouch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES candy coated milk chocolate 45 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Smarties Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES candy coated milk chocolate 130 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES candy coated milk chocolate 203 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "KITKAT Pops with SMARTIES",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES candy coated milk chocolate 1 kg",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Share Size candy coated milk chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES candy coated milk chocolate Multipack, 4 x 45 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Valentines Treat Size",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Easter Chocolate Egg Hunt Kit",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Easter Chocolate 45 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Easter Chocolate Chicken",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Box  - Easter Milk Chocolate Pack of 30",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Assorted Minis Carton 25 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Assorted Minis Carton 50 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "Assorted Minis Carton 100 pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "NESTLÉ Assorted Minis Carton pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Smarties",
+    "to_product": "SMARTIES Mini Ornaments Bag",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Share Bag",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Holiday Gift Chocolates",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Holiday Gift Box",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Share Bag",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Holiday Gift Box",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Classic Recipe Gift Box Carton",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Caramel Pecans & Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Mega",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Minis Classic",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Turtles",
+    "to_product": "TURTLES Assorted Holiday Gift Chocolates",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Limited Edition KIT KAT",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Double Double-mate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE French Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Hazelnut",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Caramel Macchiato Liquid Coffee Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Zero Sugar French Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE AFTER EIGHT Liquid Coffee Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE TURTLES Liquid Coffee Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE COFFEE CRISP Liquid Coffee Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Hazelnut Liquid Coffee Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE-MATE French Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE-MATE Double Double-mate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Original Light Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Hazelnut Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE French Vanilla Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE-MATE Original Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Original Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Original Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Coffee Mate",
+    "to_product": "COFFEE MATE Original Light Powder",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFE RICH Iced",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Caramel Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Intense Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Instant Coffee 95 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Colombia Premium Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Premium Instant Medium Roast & Ground Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Dark Roast Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Cappuccino Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Vanilla Latte Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Sweet & Creamy Original Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Sweet & Creamy French Vanilla Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Sweet & Creamy Mocha Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Hazelnut Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Taster's Choice Decaf Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich French Vanilla Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Colombian Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Decaf Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Encore Coffee Instant",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "Simply Creamy Instant Coffee Mix",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Smooth Instant Coffee 100 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Iced Latte Salted Caramel Carton",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFE Sweet & Creamy Iced Original Instant Coffee Mix",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Taster's Choice Classic Instant Coffee (100 g)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ Rich Instant Coffee (170 g)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFÉ GOLD Espresso Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESCAFÉ",
+    "to_product": "NESCAFE Decaf GOLD Espresso Instant Coffee",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT Gold Frozen Dessert Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT Gold Wafer Flavoured Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "Coffee Crisp Bars, Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "Rolo Cone Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KitKat Mini Bars Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "COFFEE CRISP Frozen Cone",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KitKat Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "DRUMSTICK ROLO Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT Frozen Double Crunch Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "CHRISTIE® OREO  Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "COFFEE CRISP Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "Rolo Cones Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "ROLO Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "SMARTIES",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "CADBURY® CARAMILK® Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "COFFEE CRISP",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "OREO",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "CHRISTIE® OREO® Sandwich 4-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "LIFE SAVERS Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "LIFESAVERS  Five Flavour Ice Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "OREO Sandwich",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "LIFE SAVERS Pop",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "LIFESAVERS Sweet Meets Sour Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KitKat Single Bars, Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Confectionery Frozen Desserts",
+    "to_product": "KIT KAT Ice-cream Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Strawberry and Lemon Sorbet",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Tropical Mango Sorbet",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Raspberries and Chocolate Gelato",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Mango Frozen Fruit Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Mixed Berry & Peach Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Strawberry Frozen Fruit Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Del Monte",
+    "to_product": "DEL MONTE Coconut Pineapple Frozen Dairy Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "Drumstick Chocolate Fudge Brownie",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "Drumstick Strawberry Cheesecake",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "Drumstick Vanilla Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "Drumstick King Count Chocolate Fudge Brownie",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Simply Dipped Vanilla Sundae Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Simply Dipped Vanilla Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Strawberry King Cheesecake",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK COFFEE CRISP Frozen Dessert Cone",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "NESTLÉ DRUMSTICK Vanilla Caramel & Vanilla Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "Nestle® Drumstick® Sweet 'N Salty Caramel Frozen Dessert Cones 10 x 130mL",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Vanilla Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Sweet N' Salty Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Chocolate Fudge Brownie",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Strawberry Cheesecake",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Vanilla Fudge Sundae Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Minis Simply Dipped Vanilla Frozen Dessert Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Minis Vanilla Caramel Cones",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Minis Vanilla with Chocolatey Swirl",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Minis Vanilla Caramel",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Minis Simply Dipped Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Berry Bliss",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Cookies n’ Crème",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Toffee  Graham Crunch",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Drumstick",
+    "to_product": "DRUMSTICK Plant-Based, Caramel Carton 4 x 120 ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Bars Strawberry Cheesecake 4x80ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Bars Raspberry Chocolate 4x80ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Bars Cherry Swirl 4x80ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Bars Blueberry Swirl 4x80ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Strawberry Swirl Tub 6x946ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Vanilla Tub 6x946ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Cherry Swirl 6x946ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® Frozen Yogurt Blueberry Swirl Tub 6x946ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® nanö Frozen Yogurt Pops Strawberry Banana 8x50ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® nanö Frozen Yogurt Pops Peach 8x50ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "IÖGO",
+    "to_product": "iÖGO® nanö Frozen Yogurt Pops Mixed Berry 8x50ml",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "Vanilla Caramel Half Dipped Frozen Dessert Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "Juicy Pops, Mango Peach & Cherry Flavoured Ice Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "French Vanilla Frozen Dessert",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Chocolate & Banana",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Butterscotch Sundae",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Cookies & Cream",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Heavenly Hash",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Maple Walnut",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Mint Chocolate Swirl",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Neapolitan",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Minis Fudge Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Minis Vanilla Sandwiches",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Fudge Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Vanilla Ice Cream Sandwich",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Dipped Bars",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Assorted Cream Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Super Sandwich",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Super Fudge Bar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Chocolate Twin Pops",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR STRAWBERRY DESSERT",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Parlour",
+    "to_product": "PARLOUR Vanilla Sandwich",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "REAL DAIRY Maple Walnut",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "REAL DAIRY Crème Brûlée",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "REAL DAIRY 50% Less Fat Natural Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "Black Cherry Premium Ice Cream",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "REAL DAIRY Natural Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "French Vanilla Premium Ice Cream",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Real Dairy",
+    "to_product": "REAL DAIRY Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Liquid Seasoning",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Liquid Seasoning",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Hot and Sweet Sauce",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Tamarina Sauce",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Chilli Masala Sauce",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI 2-Minute Noodles Masala",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Chicken Flavour Bouillon",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "MAGGI",
+    "to_product": "MAGGI Vegetable Bouillon",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "BOOST Kids",
+    "to_product": "BOOST Kids Essentials Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "BOOST Kids",
+    "to_product": "BOOST Kids Fruit Essentials",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "BOOST Kids",
+    "to_product": "BOOST Kids Essentials Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "BOOST Kids",
+    "to_product": "BOOST Kids Fruit Essentials Tropical",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Pudding Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST 2.24 Cal/mL, Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST 2.24 Cal/mL, Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST 2.24, Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Just Protein 227 g",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Pudding Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Protein and Shake - Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Kids Essentials Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Kids Fruit Essentials",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Kids Essentials Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Kids Fruit Essentials Tropical",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Soothe Clear Nutritional Drink, Strawberry Kiwi, 24-Pack",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Juice Fruit Flavoured Beverage - Orange",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST High Protein - Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST High Protein - Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST High Protein - Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Carb Smart - Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Carb Smart - Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Carb Smart - Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Plus Calories - Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Plus Calories - Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Plus Calories - Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Original - Chocolate Latte",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Original - Strawberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Original - Vanilla",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Boost",
+    "to_product": "BOOST Original - Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Rich & Creamy Hot Chocolate Canister",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "Carnation Hot Chocolate Rich & Creamy Canister",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Rich and Creamy Hot Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Hot Chocolate Light",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Rich and Creamy Hot Chocolate 30 Capsules",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "Carnation Marshmallow Canister",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Marshmallow Hot Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "​  Nestlé CARNATION Turtles Hot Chocolate",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION Variety Pack Hot Chocolate Carton",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Carnation Hot Chocolate",
+    "to_product": "CARNATION AERO S'Mores Hot Chocolate Carton",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "GoodHost",
+    "to_product": "GOOD HOST Original",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "GoodHost",
+    "to_product": "GOODHOST Liq Water Enhancer 12x52m",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Milo",
+    "to_product": "MILO",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Milo",
+    "to_product": "MILO",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESTEA",
+    "to_product": "NESTEA Lemon Iced Tea Less Sugar",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESTEA",
+    "to_product": "NESTEA Lemon Iced Tea Liquid Water Enhancer",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "NESTEA",
+    "to_product": "NESTEA Original Lemon Iced Tea",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesfruta",
+    "to_product": "NESFRUTA Orange Peach Mango",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesfruta",
+    "to_product": "NESFRUTA Coconut Pineapple",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesfruta",
+    "to_product": "NESFRUTA Raspberry",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesquik",
+    "to_product": "NESQUIK Chocolate Syrup (700 ml)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesquik",
+    "to_product": "NESQUIK Less Sugar Chocolate Syrup",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesquik",
+    "to_product": "NESQUIK Chocolate Syrup (1.4 L)",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesquik",
+    "to_product": "NESQUIK Strawberry Syrup",
+    "type": "HAS_PRODUCT"
+  },
+  {
+    "from_brand": "Nesquik",
+    "to_product": "NESQUIK Chocolate Powder (540 g)",
+    "type": "HAS_PRODUCT"
+  }
+]

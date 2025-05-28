@@ -1,11 +1,12 @@
 from typing import List
 from common.azure_clients import search_client, get_chat_completion
 from backend.models.response_models import Source
+from backend.services.base_rag_service import BaseRAGService
 
 
-class RAGService:
+class VectorRAGService(BaseRAGService):
     def __init__(self, top_k: int = 5):
-        self.top_k = top_k  # Number of documents to retrieve
+        super().__init__(top_k=top_k)
 
     def answer_question(self, question: str) -> dict:
         """
@@ -24,27 +25,6 @@ class RAGService:
             "answer": answer,
             "sources": sources,
         }
-
-    def get_answer(self, question: str, context: str) -> str:
-        """
-        Calls the LLM to generate an answer, using the provided context.
-        The system prompt instructs the model to only use the context and reference numbers.
-        """
-        system_message = (
-            "You are a helpful assistant. Use only the information provided in the context. "
-            "Use the reference numbers like [1], [2], exactly as shown in the context. "
-        )
-
-        user_message = f"{question}\n\nContext:\n{context}"
-
-        messages = [
-            {"role": "system", "content": system_message},
-            {"role": "user", "content": user_message},
-        ]
-
-        response = get_chat_completion(messages)
-
-        return response
 
     def search_documents(self, question: str) -> List[dict]:
         """
