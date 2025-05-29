@@ -20,3 +20,22 @@ class ChatResponse(BaseModel):
 
     answer: str
     sources: List[Source]
+
+
+class GraphStats(BaseModel):
+    """
+    Statistics about the graph operations
+    """
+
+    nodes_created: int = 0
+    properties_set: int = 0
+    relationships_created: Optional[int] = None
+
+
+class GraphAddResponse(BaseModel):
+    """
+    Response model for graph editing
+    """
+
+    status: str
+    stats: Optional[GraphStats] = None

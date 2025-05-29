@@ -35,6 +35,12 @@ An AI-powered chatbot using RAG (Retrieval-Augmented Generation), deployed on Go
 - **Chat API**: Single `/chat` endpoint using HybridRAG; optional `/vector-chat` also available
 - **Deployment**: Fully deployable on Google Cloud Run using Docker with environment configuration
 
+## Additional Features
+
+- **Graph Editing API**: Add/update brand & product nodes and relationships via `/graph` endpoints.  
+  👉 See [Graph Editing Usage Guide](./README_graph_edit.md) for API details and testing instructions.
+- **Interactive API Docs**: Explore all endpoints via [Swagger UI `/docs`](https://nestle-chatbot-1056934369723.us-central1.run.app/docs)
+
 ---
 
 ## Setup Locally
@@ -47,14 +53,16 @@ To run the chatbot locally, follow these steps:
 - Azure account (for Cognitive Search and OpenAI)
 - Neo4j Aura account (for graph database)
 
-### Steps
+### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/yourname/nestle-chatbot
 cd nestle-chatbot
 ```
 
-# 1. Backend Setup
+### 2. Backend Setup
+
+**Python Environment**:
 
 ```bash
 pyenv install 3.10.13
@@ -79,45 +87,33 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## **创建 `.env` 文件**:
+### 3. Environment Configuration
 
-## Environment Configuration
-
-Before setting up `.env` files, you must configure the following services:
+Before creating .env files, you must configure:
 
 - Azure OpenAI (for embeddings and chat)
 - Azure Cognitive Search (for vector database)
 - Neo4j Aura (for graph database)
 
-📄 Please refer to [`SETUP_ENV.md`](SETUP_ENV.md) for detailed instructions on:
+📄 See [`README_setup_env.md`](README_setup_env.md) for detailed instructions.
 
-- Setting up embedding models and indexes
-- Initializing vector and graph databases
-- Required environment variable structure
-- Uploading preprocessed data with Python scripts
+Also see: [`frontend/.env.example`](frontend/.env.example) for frontend variables.
 
----
-
-## Frontend Environment
-
-The frontend reads `VITE_API_BASE_URL` from `.env.local` or `.env.production`.
-
-👉 Refer to [`frontend/.env.example`](frontend/.env.example) for variable format.
+To set up environment variables:
 
 ```bash
 cp .env.example .env
+cp frontend/.env.example frontend/.env
 ```
 
-And fill in the required environment variables for Azure Cognitive Search, Neo4j, and OpenAI.
-
-# 2. Frontend Setup
+### 4. Frontend Setup
 
 ```bash
 cd frontend
 npm install
 ```
 
-# 3. Start the Application
+### 5. Start the Application
 
 **Frontend**:
 
@@ -133,9 +129,9 @@ cd backend
 uvicorn main:app --reload
 ```
 
-### Access the App
+### 6.Access the App
 
-## Default Ports
+**Default Ports**
 
 | Service     | Port |
 | ----------- | ---- |
@@ -144,9 +140,6 @@ uvicorn main:app --reload
 
 - Frontend: [http://localhost:5173](http://localhost:5173)
 - Backend API: [http://localhost:8000](http://localhost:8000)
-
-### Access the API Docs
-
 - Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
@@ -156,3 +149,10 @@ uvicorn main:app --reload
 For details on how the web scraper works and how to run it locally, please refer to:
 
 👉 [`scraper/README_scraper.md`](scraper/README_scraper.md)
+
+## Potential Enhancements
+
+- **Expand crawling coverage**: Include additional content types like FAQs and About pages to enrich semantic context.
+- **Smarter reranking**: Apply keyword-based or model-assisted reranking to vector results for more accurate answer grounding.
+- **Extend graph schema**: Add entities such as ingredients, categories, or article references to enhance structured reasoning.
+- **Improve prompt & model tuning**: Use GPT-4 and refine system prompts to improve accuracy and grounding of answers.

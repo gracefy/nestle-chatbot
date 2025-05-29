@@ -1,5 +1,5 @@
 from pathlib import Path
-from scripts.graph.schema import BrandNode, ProductNode, HasProductEdge
+from backend.models.graph_models import BrandNode, ProductNode, HasProductEdge
 from common.constants import (
     PRODUCTS_PATH,
     GRAPH_PROCESSED_DIR,
