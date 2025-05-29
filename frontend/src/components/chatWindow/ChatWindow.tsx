@@ -29,7 +29,7 @@ export const ChatWindow = ({ onClose, onSend, onToggleSize, messages, isLoading,
       className={clsx(
         'font-sans bg-white shadow-lg ring-1 ring-brand rounded-xl flex flex-col',
         isExpanded
-          ? 'w-[95vw] h-[95vh] md:w-[70vw] md:h-[80vh]'
+          ? 'w-[90vw] h-[90vh] md:w-[70vw] md:h-[80vh]'
           : 'w-[300px] md:w-[400px] h-[500px] md:h-[600px]'
       )}
     >
