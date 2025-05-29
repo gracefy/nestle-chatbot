@@ -16,17 +16,16 @@ class HybridRAGService(BaseRAGService):
         3. Query Neo4j for related graph context.
         4. Merge both into a unified context for the LLM.
         """
-        # Vector search to get relevant documents
+        # Step 1: vector search
         vector_docs = self.vector_rag.search_documents(question)
-
-        # build vector context and sources
         vector_context = self.vector_rag.build_context(vector_docs)
         sources = self.vector_rag.prepare_sources(vector_docs)
 
-        # Extract brand from vector documents
+        # Step 2: extract brand or fallback name
         brand = self.extract_brand_from_docs(vector_docs)
         name = self.extract_top_name_from_docs(vector_docs)
 
+        # Step 3: graph search
         if brand:
             graph_products = get_products_by_brand(brand)
         elif name:
@@ -35,12 +34,17 @@ class HybridRAGService(BaseRAGService):
         else:
             graph_products = []
 
-        # Build graph context from graph products
-        graph_context = self.build_graph_context(graph_products)
+        # Step 4: skip graph if nothing found
+        if graph_products:
+            graph_products = self._filter_and_rerank_products(question, graph_products)
+            graph_context = self.build_graph_context(graph_products)
+        else:
+            graph_context = ""
 
-        # Merge vector and graph contexts
+        # Step 5: Merge vector and graph contexts
         context = self.merge_contexts(vector_context, graph_context)
 
+        # Step 6: Generate answer using the LLM
         answer = self.get_answer(question, context)
 
         return {"answer": answer, "sources": sources}
@@ -81,3 +85,32 @@ class HybridRAGService(BaseRAGService):
         if not vector_context:
             return graph_context
         return f"{vector_context}\n\n[Graph Knowledge from Neo4j]\n{graph_context}"
+
+    def _filter_and_rerank_products(
+        self, question: str, products: List[dict]
+    ) -> List[dict]:
+        """
+        Filter out unrelated products and rerank based on simple keyword overlap with the question.
+        This reduces noise in graph-based context and improves answer relevance.
+        """
+        if not products:
+            return []
+
+        question_lower = question.lower()
+
+        def relevance_score(p: dict) -> int:
+            """Simple score: count of matching keywords from question in product fields"""
+            fields = " ".join(
+                [
+                    str(p.get("name", "")),
+                    str(p.get("description", "")),
+                    str(p.get("label", "")),
+                ]
+            ).lower()
+            return sum(1 for word in question_lower.split() if word in fields)
+
+        # Filter out products with no keyword match
+        filtered = [p for p in products if relevance_score(p) > 0]
+
+        # Rerank by descending relevance score
+        return sorted(filtered, key=relevance_score, reverse=True)

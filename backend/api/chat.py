@@ -28,6 +28,7 @@ async def chat_endpoint(request: ChatRequest):
 
     try:
         result = hybrid_service.answer_question(question)
+        # print(f"RAG result: {result}")
 
         answer = result.get("answer", "").strip()
         if not answer:

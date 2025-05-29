@@ -43,16 +43,16 @@ class VectorRAGService(BaseRAGService):
             if doc.get("content")
         )
 
-    def prepare_sources(self, docs: List[dict]) -> List[dict]:
+    def prepare_sources(self, docs: List[dict]) -> List[Source]:
         """
         Prepares the source metadata for the frontend, including title, url, image, and content.
         """
         return [
-            {
-                "title": doc["title"],
-                "url": doc["sourcepage"],
-                "image": doc["image"],
-                "content": doc["content"],
-            }
+            Source(
+                title=doc["title"],
+                url=doc["sourcepage"],
+                image=doc["image"],
+                content=doc["content"],
+            )
             for doc in docs
         ]

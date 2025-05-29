@@ -3,6 +3,7 @@ import { FloatingChatButton } from '@/components/floatingChatButton'
 import { ChatWindow } from '@/components/chatWindow'
 import { type Props as Message } from '@/components/messageBubble'
 import { LayoutGroup } from 'framer-motion'
+import { extractUsedIndices, remapAnswer, getUsedSources } from './utils'
 
 // Global chatbot state and layout controller
 export const ChatBot = () => {
@@ -11,9 +12,18 @@ export const ChatBot = () => {
 
   // UI mode: controls whether to show button / chat / expanded
   const [mode, setMode] = useState<'normal' | 'expanded' | 'closed'>('closed')
+  const defaultGreeting: Message = {
+    role: 'bot',
+    text: 'Hello, I’m Nesti. How can I help you today?',
+    sources: [],
+    mode: mode,
+  }
 
   const handleSend = async (question: string) => {
-    setMessages((prev) => [...prev, { role: 'user', text: question }])
+    const userMessage: Message = { role: 'user', text: question, sources: [], mode }
+    const loadingMessage: Message = { role: 'bot', text: '', sources: [], mode, isLoading: true }
+
+    setMessages((prev) => [...prev, userMessage, loadingMessage])
     setIsLoading(true)
 
     try {
@@ -23,9 +33,33 @@ export const ChatBot = () => {
         body: JSON.stringify({ question }),
       })
       const data = await res.json()
-      setMessages((prev) => [...prev, { role: 'bot', text: data.answer }])
+      // console.log('Response from server:', data)
+
+      const usedIndices = extractUsedIndices(data.answer)
+      const remappedAnswer = remapAnswer(data.answer, usedIndices)
+      const filteredSources = getUsedSources(data.sources, usedIndices)
+
+      setMessages((prev) => {
+        const updated = [...prev]
+        updated[updated.length - 1] = {
+          role: 'bot',
+          text: remappedAnswer,
+          sources: filteredSources,
+          mode,
+        }
+        return updated
+      })
     } catch {
-      setMessages((prev) => [...prev, { role: 'bot', text: 'Something went wrong.' }])
+      setMessages((prev) => {
+        const updated = [...prev]
+        updated[updated.length - 1] = {
+          role: 'bot',
+          text: 'Sorry, I encountered an error while processing your request.',
+          sources: [],
+          mode,
+        }
+        return updated
+      })
     } finally {
       setIsLoading(false)
     }
@@ -34,7 +68,12 @@ export const ChatBot = () => {
   return (
     <LayoutGroup>
       {mode === 'closed' ? (
-        <FloatingChatButton onClick={() => setMode('normal')} />
+        <FloatingChatButton
+          onClick={() => {
+            setMode('normal')
+            setMessages((prev) => [...prev, defaultGreeting])
+          }}
+        />
       ) : (
         <ChatWindow
           mode={mode}

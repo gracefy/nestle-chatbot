@@ -1,1 +1,1 @@
-export * from './FloatingChatButton'
+export { FloatingChatButton } from './FloatingChatButton'

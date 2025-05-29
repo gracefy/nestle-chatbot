@@ -11,7 +11,7 @@ interface Props {
   onToggleSize: () => void
   messages: Message[]
   isLoading: boolean
-  mode: 'normal' | 'expanded'
+  mode: 'normal' | 'expanded' | 'closed'
 }
 
 // Display chat UI in normal / expanded mode
@@ -31,7 +31,7 @@ export const ChatWindow = ({ onClose, onSend, onToggleSize, messages, isLoading,
         className={clsx(
           'font-sans bg-white shadow-lg ring-1 ring-brand',
           'rounded-xl flex flex-col transition-all duration-300 ease-in-out',
-          isExpanded ? 'w-[95vw] h-[90vh]' : 'w-[300px] md:w-[400px] h-[500px] md:h-[600px]'
+          isExpanded ? 'w-[70vw] h-[80vh]' : 'w-[300px] md:w-[400px] h-[500px] md:h-[600px]'
         )}
       >
         {/* Header */}
@@ -57,7 +57,14 @@ export const ChatWindow = ({ onClose, onSend, onToggleSize, messages, isLoading,
         {/* Message  list*/}
         <div className="flex-1 overflow-y-auto px-4 py-6 flex flex-col gap-6">
           {messages.map((msg, i) => (
-            <MessageBubble key={i} role={msg.role} text={msg.text} />
+            <MessageBubble
+              key={i}
+              role={msg.role}
+              text={msg.text}
+              sources={msg.sources}
+              mode={mode}
+              isLoading={isLoading && i === messages.length - 1} // Show loading only for last message
+            />
           ))}
           <div ref={messagesEndRef} className="h-0" /> {/* auto scroll anchor */}
         </div>

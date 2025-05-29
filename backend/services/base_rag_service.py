@@ -22,8 +22,10 @@ class BaseRAGService(ABC):
         The system prompt instructs the model to only use the context and reference numbers.
         """
         system_message = (
-            "You are a helpful assistant. Use only the information provided in the context. "
-            "Use the reference numbers like [1], [2], exactly as shown in the context. "
+            "You are Nestlé's official AI assistant. Only answer questions related to Nestlé. "
+            "Answer customer questions using only the provided content from semantic and graph-based retrieval. "
+            "Cite reference numbers like [1], [2] **only if** those numbers correspond to the provided sources. "
+            "Do not invent references or refer to content not included. "
         )
 
         user_message = f"{question}\n\nContext:\n{context}"
