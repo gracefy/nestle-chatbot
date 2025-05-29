@@ -28,7 +28,7 @@ export const ChatInput = ({ onSend, isLoading }: Props) => {
       />
       <button
         type="submit"
-        className=" text-brand hover:text-brand-hover p-2 disabled:opacity-50"
+        className=" text-brand hover:text-brand-hover p-2 disabled:opacity-50 cursor-pointer transition-colors duration-200"
         disabled={isLoading}
         aria-label="Send message"
       >
