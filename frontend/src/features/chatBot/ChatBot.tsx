@@ -2,8 +2,8 @@ import { useState } from 'react'
 import { FloatingChatButton } from '@/components/floatingChatButton'
 import { ChatWindow } from '@/components/chatWindow'
 import { type Props as Message } from '@/components/messageBubble'
-import { LayoutGroup } from 'framer-motion'
 import { extractUsedIndices, remapAnswer, getUsedSources } from './utils'
+import { motion } from 'framer-motion'
 
 // Global chatbot state and layout controller
 export const ChatBot = () => {
@@ -19,6 +19,15 @@ export const ChatBot = () => {
     text: 'Hello, I’m Nesti. How can I help you today?',
     sources: [],
     mode: mode,
+  }
+
+  // handle opening the chat window
+  const handleOpenChat = () => {
+    setMode('normal')
+    setMessages((prev) => {
+      const hasGreeting = prev.some((m) => m.text === defaultGreeting.text)
+      return hasGreeting ? prev : [...prev, defaultGreeting]
+    })
   }
 
   // Handle user question and send to backend API
@@ -77,14 +86,9 @@ export const ChatBot = () => {
   }
 
   return (
-    <LayoutGroup>
+    <motion.div layout transition={{ duration: 0.25 }} className="fixed bottom-6 right-6 z-50">
       {mode === 'closed' ? (
-        <FloatingChatButton
-          onClick={() => {
-            setMode('normal')
-            setMessages((prev) => [...prev, defaultGreeting])
-          }}
-        />
+        <FloatingChatButton onClick={handleOpenChat} />
       ) : (
         <ChatWindow
           mode={mode}
@@ -95,6 +99,6 @@ export const ChatBot = () => {
           isLoading={isLoading}
         />
       )}
-    </LayoutGroup>
+    </motion.div>
   )
 }

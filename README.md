@@ -40,6 +40,7 @@ An AI-powered chatbot using RAG (Retrieval-Augmented Generation), deployed on Go
 - **Graph Editing API**: Add/update brand & product nodes and relationships via `/graph` endpoints.  
   👉 See [Graph Editing Usage Guide](./README_graph_edit.md) for API details and testing instructions.
 - **Interactive API Docs**: Explore all endpoints via [Swagger UI `/docs`](https://nestle-chatbot-1056934369723.us-central1.run.app/docs)
+- **UI Enhancements**: Optional `expanded` mode for a larger chat window to improve user experience.
 
 ---
 
