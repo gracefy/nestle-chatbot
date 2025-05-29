@@ -1,38 +1,39 @@
 # Nestlé Canada AI Chatbot
 
-An AI-powered chatbot using RAG (Retrieval-Augmented Generation), deployed on Azure, combining semantic and graph-based retrieval.
+An AI-powered chatbot using RAG (Retrieval-Augmented Generation), deployed on Google Cloud, combining vector-based and graph-based retrieval.
 
 ---
 
 ## Demo
 
-🔗 Azure Deployment: [Live Demo](https://nestle-chatbot-1056934369723.us-central1.run.app/)  
+🔗 Google Cloud Deployment: [Live Demo](https://nestle-chatbot-1056934369723.us-central1.run.app/)  
 🔗 GitHub Repo: [github.com/gracefy/nestle-chatbot](https://github.com/gracefy/nestle-chatbot)
 
 ---
 
 ## Tech Stack
 
-| Layer      | Tech                       |
-| ---------- | -------------------------- |
-| Frontend   | React + Tailwind           |
-| Backend    | FastAPI (Python)           |
-| Vector DB  | Azure Cognitive Search     |
-| Graph DB   | Neo4j Aura                 |
-| LLM        | Azure OpenAI (GPT-4-turbo) |
-| Deployment | Azure App Service (Docker) |
+| Layer       | Tech                        |
+| ----------- | --------------------------- |
+| Frontend    | React + Tailwind            |
+| Backend     | FastAPI (Python)            |
+| Web Crawler | Playwright + BeautifulSoup  |
+| Vector DB   | Azure AI Search             |
+| Graph DB    | Neo4j Aura                  |
+| LLM         | Azure OpenAI (GPT-35-turbo) |
+| Deployment  | Google Cloud Run (Docker)   |
 
 ---
 
 ## Features
 
 - **Web Crawling**: Structured scraping of Nestlé website content (products, recipes, articles)
-- **Vector-based RAG**: Uses Azure OpenAI embeddings + Azure Cognitive Search for semantic retrieval
+- **Vector-based RAG**: Uses Azure OpenAI embeddings + Azure AI Search for semantic retrieval
 - **Graph-based RAG (GraphRAG)**: Models brand-product relationships in Neo4j for structured context
 - **Hybrid RAG**: Combines semantic and structured knowledge for deeper context understanding
 - **LLM via Azure OpenAI**: Deployed `gpt-35-turbo` for chat completion generation
 - **Chat API**: Single `/chat` endpoint using HybridRAG; optional `/vector-chat` also available
-- **Azure Deployment**: Fully deployable on Azure App Service with environment configuration
+- **Deployment**: Fully deployable on Google Cloud Run using Docker with environment configuration
 
 ---
 

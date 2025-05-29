@@ -17,7 +17,7 @@ This document explains how to prepare your Azure and Neo4j services, set environ
   - Create a Search Index
     You can find a sample schema at:
 
-    👉 [`nestle_index_schema.json`](scripts/vector/nestle_index_schema.json)
+    👉 [`scripts/vector/nestle_index_schema.json`](scripts/vector/nestle_index_schema.json)
 
 ### Set in `.env`:
 
