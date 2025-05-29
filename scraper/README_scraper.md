@@ -29,6 +29,8 @@ The main script first extracts all URLs from the sitemap, then sequentially craw
 All raw data is saved to the `scraper/raw_data/` directory.
 Each file contains structured product/article/recipe data for downstream RAG usage.
 
+> Note: Company-related pages such as “About”, “Careers”, and “Privacy Policy” are not included in this version. These may be added in future iterations based on relevance.
+
 ## TODO
 
 The following product pages could not be successfully scraped due to access issues or structural differences. These cases are excluded from the current dataset and may require custom handling in the future.

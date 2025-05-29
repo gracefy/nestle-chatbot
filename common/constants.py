@@ -17,13 +17,14 @@ BROKEN_LINKS_PATH = f"{RAW_DIR}/links/broken_links.json"
 
 # Processed data for Vector DB
 PROCESSED_DIR = "processed_data"
-PROCESSED_PRODUCTS_PATH = f"{PROCESSED_DIR}/products_for_search.json"
-PROCESSED_RECIPES_PATH = f"{PROCESSED_DIR}/recipes_for_search.json"
-PROCESSED_ARTICLES_PATH = f"{PROCESSED_DIR}/articles_for_search.json"
+GRAPH_PROCESSED_DIR = f"{PROCESSED_DIR}/vector"
+PROCESSED_PRODUCTS_PATH = f"{PROCESSED_DIR}/products_vector.json"
+PROCESSED_RECIPES_PATH = f"{PROCESSED_DIR}/recipes_vector.json"
+PROCESSED_ARTICLES_PATH = f"{PROCESSED_DIR}/articles_vector.json"
 
 
 # Processed data for graph DB
 GRAPH_PROCESSED_DIR = f"{PROCESSED_DIR}/graph"
-GRAPH_BRANDS_PATH = f"{GRAPH_PROCESSED_DIR}/brands.json"
-GRAPH_PRODUCTS_PATH = f"{GRAPH_PROCESSED_DIR}/products.json"
-GRAPH_EDGES_PATH = f"{GRAPH_PROCESSED_DIR}/edges.json"
+GRAPH_PRODUCTS_PATH = f"{GRAPH_PROCESSED_DIR}/products_graph.json"
+GRAPH_BRANDS_PATH = f"{GRAPH_PROCESSED_DIR}/brands_graph.json"
+GRAPH_EDGES_PATH = f"{GRAPH_PROCESSED_DIR}/edges_graph.json"
