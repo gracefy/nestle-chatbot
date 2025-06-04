@@ -125,9 +125,10 @@ npm run dev
 
 **Backend**:
 
+Please make sure you are in the **project root directory**
+
 ```bash
-cd backend
-uvicorn main:app --reload
+uvicorn backend.main:app --reload
 ```
 
 ### 6.Access the App
